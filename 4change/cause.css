@@ -1,0 +1,35 @@
+body {
+    margin:0;
+    padding:0;
+    text-align: center;
+    background-color: #C68642;
+}
+
+.display-3{
+	padding-top: 55px;
+}
+
+/*navbar*/
+
+.navbar-custom{
+	background-color: #353839;
+}
+
+.navbar-custom .navbar-brand{ 
+		color:#f2f2f2; 
+        }
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: 	#CD853F;
+}
+
+
+a{
+	text-decoration: none;
+	color: 	#8D5524;
+}
+
+a:hover{
+	color: black;
+}
