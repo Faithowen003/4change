@@ -1,0 +1,96 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+h2{
+	text-align: center;
+
+}
+
+/*navbar*/
+
+.navbar-custom{
+	background-color: #353839;
+}
+
+.navbar-custom .navbar-brand{ 
+		color:#f2f2f2; 
+        }
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: 	#CD853F;
+}
+
+/*banner
+*/
+.container h1, .container p, .container hr{
+	text-align: center;
+}
+
+.container  .lead p{
+	color: #565656;
+}
+
+.container h1{
+	color: #555555;
+
+}
+
+.container #extra{
+	color:#565656;
+	font-style: italic;
+}
+
+.btn-outline-secondary{
+   
+    color: 	#CD853F !important;
+    border-color: #555555   !important;
+
+}
+
+ .btn-outline-secondary:hover{
+ 	background-color: 	#CD853F !important;
+ 	border-color: 	#D3D3D3 !important;
+ 	color: silver  !important;
+
+  }
+
+ .jumbotron {
+    background-color:#D3D3D3 !important; 
+    margin-bottom: 0 !important;
+   
+
+
+}
+
+.row{
+	margin-top: 25px;
+}
+
+.col-xl{
+	height: 430px !important;
+	padding-top: 7% !important;
+}
+
+
+
+footer{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+@media only screen and (max-width: 768px) {
+ .row{
+ 	margin-top: 0;
+
+ }
+h1{
+	padding-top: 15px;
+}
+
+}
+
+

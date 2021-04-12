@@ -1,0 +1,28 @@
+
+/*navbar*/
+
+.navbar-custom{
+	background-color: #353839;
+}
+
+.navbar-custom .navbar-brand{ 
+		color:#f2f2f2; 
+        }
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: 	#CD853F;
+}
+
+body{
+	text-align: center;
+	 background-color: #E0AC69;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: #8D5524;
+}
